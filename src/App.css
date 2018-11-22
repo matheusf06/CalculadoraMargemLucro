@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  background-color: lightseagreen;
+}
+input{
+  max-width: 69px;
+  font-size: 17px;
+  border: 2px solid;
+}
+.header{
+  background-color: white;
+  margin-top: 50px;
+  margin-left: 102px;
+  margin-right: 142px;
+  padding: 45px;
+  border: 2px solid;
+  display: inline-block;
+  width: 435px;
+}
+.box{
+  background-color: white;
+  margin-top: 42px;
+  margin-left: 102px;
+  margin-right: 142px;
+  padding: 45px;
+  border: 2px solid;
+  display: inline-block;
+  width: 435px;
+}
